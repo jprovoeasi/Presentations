@@ -1,2 +1,2 @@
 # Presentations
-Deze repository bevat alle presentaties (slides) van de lessen.
+This repository contains all presentation (slides) used in class.
